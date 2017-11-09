@@ -1,0 +1,15 @@
+phantomjs
+phantomjs-prebuilt
+casperjs
+slimerjs
+jasmine
+mocha
+chai
+karma
+jest
+cucumber
+dalek-cli
+dalekjs
+qunitjs
+webdriverio
+galenframework-cli
